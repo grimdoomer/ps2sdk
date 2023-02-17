@@ -1,0 +1,8 @@
+<map id="t_SifRpcBindPkt" name="t_SifRpcBindPkt">
+<area shape="rect" id="node1" title=" " alt="" coords="19,183,137,209"/>
+<area shape="rect" id="node2" href="$iop_2kernel_2include_2sifcmd_8h.html#structt___sif_cmd_header" title=" " alt="" coords="5,93,124,119"/>
+<area shape="rect" id="node3" href="$iop_2kernel_2include_2sifcmd_8h.html#structt___sif_rpc_client_data" title=" " alt="" coords="148,93,280,119"/>
+<area shape="rect" id="node5" href="$iop_2kernel_2include_2sifcmd_8h.html#structt___sif_rpc_server_data" title=" " alt="" coords="187,183,324,209"/>
+<area shape="rect" id="node4" href="$iop_2kernel_2include_2sifcmd_8h.html#structt___sif_rpc_header" title=" " alt="" coords="157,5,271,31"/>
+<area shape="rect" id="node6" href="$iop_2kernel_2include_2sifcmd_8h.html#structt___sif_rpc_data_queue" title=" " alt="" coords="185,303,323,328"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="iop/fs/netfs/src/devscan.c" name="iop/fs/netfs/src/devscan.c">
+<area shape="rect" id="node1" title=" " alt="" coords="500,5,672,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="381,152,444,177"/>
+<area shape="rect" id="node3" href="$defs_8h.html" title=" " alt="" coords="5,79,63,104"/>
+<area shape="rect" id="node7" href="$irx_8h.html" title=" " alt="" coords="579,225,625,251"/>
+<area shape="rect" id="node8" href="$loadcore_8h.html" title=" " alt="" coords="661,152,743,177"/>
+<area shape="rect" id="node9" href="$ioman__mod_8h.html" title=" " alt="" coords="63,152,162,177"/>
+<area shape="rect" id="node15" href="$ioman_x_8h.html" title=" " alt="" coords="187,152,263,177"/>
+<area shape="rect" id="node17" href="$thbase_8h.html" title=" " alt="" coords="287,152,357,177"/>
+<area shape="rect" id="node18" href="$thsemap_8h.html" title=" " alt="" coords="851,152,934,177"/>
+<area shape="rect" id="node19" href="$stdio_8h.html" title=" " alt="" coords="767,152,827,177"/>
+<area shape="rect" id="node20" href="$sysclib_8h.html" title=" " alt="" coords="958,152,1030,177"/>
+<area shape="rect" id="node23" href="$iopmgr_8h.html" title=" " alt="" coords="515,79,585,104"/>
+<area shape="rect" id="node25" href="$devscan_8h.html" title=" " alt="" coords="864,79,945,104"/>
+<area shape="rect" id="node4" href="$iop_2kernel_2include_2types_8h_source.html" title=" " alt="" coords="485,299,548,324"/>
+<area shape="rect" id="node5" title=" " alt="" coords="483,372,551,397"/>
+<area shape="rect" id="node6" href="$tamtypes_8h.html" title=" " alt="" coords="729,372,814,397"/>
+<area shape="rect" id="node10" href="$io__common_8h.html" title=" " alt="" coords="251,225,350,251"/>
+<area shape="rect" id="node13" href="$iox__stat_8h.html" title=" " alt="" coords="150,225,227,251"/>
+<area shape="rect" id="node11" href="$fcntl_8h_source.html" title=" " alt="" coords="256,299,337,324"/>
+<area shape="rect" id="node12" href="$unistd_8h_source.html" title=" " alt="" coords="362,299,453,324"/>
+<area shape="rect" id="node14" href="$time_8h.html" title=" " alt="" coords="148,299,229,324"/>
+<area shape="rect" id="node16" title=" " alt="" coords="735,225,803,251"/>
+<area shape="rect" id="node21" href="$setjmp_8h.html" title=" " alt="" coords="812,299,883,324"/>
+<area shape="rect" id="node22" href="$ctype_8h.html" title=" " alt="" coords="980,225,1043,251"/>
+<area shape="rect" id="node24" href="$ioman_8h.html" title=" " alt="" coords="469,152,535,177"/>
+</map>

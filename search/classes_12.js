@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['r_5frecv_5fpkt_0',['r_recv_pkt',['../ps2ip__rpc_8h.html#structr__recv__pkt',1,'']]],
+  ['rect_5ft_1',['rect_t',['../draw2d_8h.html#structrect__t',1,'']]],
+  ['recycle_2',['recycle',['../structrecycle.html',1,'']]],
+  ['remote_5fdata_3',['remote_data',['../librm_8h.html#structremote__data',1,'']]],
+  ['request_4',['request',['../thread_8c.html#structrequest',1,'']]],
+  ['reroot_5',['reroot',['../structreroot.html',1,'']]],
+  ['resetdata_6',['ResetData',['../struct_reset_data.html',1,'']]],
+  ['rests_5fpkt_7',['rests_pkt',['../ps2ip__rpc_8h.html#structrests__pkt',1,'']]],
+  ['ret_5fpkt_8',['ret_pkt',['../ps2ip__rpc_8h.html#structret__pkt',1,'']]],
+  ['rmdata_9',['RmData',['../struct_rm_data.html',1,'']]],
+  ['rmeedata_10',['rmEEData',['../librm-common_8h.html#structrm_e_e_data',1,'']]],
+  ['rmrpcpacket_11',['rmRpcPacket',['../librm-common_8h.html#structrm_rpc_packet',1,'']]],
+  ['rmrpcpacket_2e_5f_5funnamed21_5f_5f_12',['rmRpcPacket.__unnamed21__',['../librm-common_8h.html#unionrm_rpc_packet_8____unnamed21____',1,'']]],
+  ['rmrpcpacket_2e_5f_5funnamed21_5f_5f_2ecmd_13',['rmRpcPacket.__unnamed21__.cmd',['../librm-common_8h.html#structrm_rpc_packet_8____unnamed21_____8cmd',1,'']]],
+  ['romdirentry_14',['RomDirEntry',['../struct_rom_dir_entry.html',1,'']]],
+  ['romdirfilestat_15',['RomdirFileStat',['../struct_romdir_file_stat.html',1,'']]],
+  ['romfileslot_16',['RomFileSlot',['../struct_rom_file_slot.html',1,'']]],
+  ['romimg_17',['RomImg',['../romdrv_8h.html#struct_rom_img',1,'']]],
+  ['romimgdata_18',['RomImgData',['../struct_rom_img_data.html',1,'']]],
+  ['root_5fdirectory_19',['Root_Directory',['../struct_root___directory.html',1,'']]],
+  ['rootdirtocheader_20',['RootDirTocHeader',['../struct_root_dir_toc_header.html',1,'']]],
+  ['rpc_5fdata_21',['rpc_data',['../sifrpc_8c.html#structrpc__data',1,'']]],
+  ['runtimestats_22',['RuntimeStats',['../struct_runtime_stats.html',1,'']]]
+];

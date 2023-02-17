@@ -1,0 +1,32 @@
+<map id="iop/kernel/include/stdint.h" name="iop/kernel/include/stdint.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1815,5,1937,45"/>
+<area shape="rect" id="node2" href="$libcglue_2src_2glue_8c_source.html" title=" " alt="" coords="5,108,149,133"/>
+<area shape="rect" id="node3" href="$sleep_8c.html" title=" " alt="" coords="174,108,325,133"/>
+<area shape="rect" id="node4" href="$ps2__osal_8h_source.html" title=" " alt="" coords="349,101,491,141"/>
+<area shape="rect" id="node7" href="$byteorder_8h.html" title=" " alt="" coords="516,108,692,133"/>
+<area shape="rect" id="node9" href="$crc16_8h_source.html" title=" " alt="" coords="717,101,865,141"/>
+<area shape="rect" id="node12" href="$embeddedartistry__libc_2stdlib_2strtol_8c_source.html" title=" " alt="" coords="889,93,1036,148"/>
+<area shape="rect" id="node13" href="$embeddedartistry__libc_2stdlib_2strtoul_8c_source.html" title=" " alt="" coords="1060,93,1207,148"/>
+<area shape="rect" id="node14" href="$printf_8c_source.html" title=" " alt="" coords="1231,93,1361,148"/>
+<area shape="rect" id="node15" href="$musl_2string_2memchr_8c_source.html" title=" " alt="" coords="1385,101,1559,141"/>
+<area shape="rect" id="node16" href="$musl_2string_2memcpy_8c_source.html" title=" " alt="" coords="1583,101,1758,141"/>
+<area shape="rect" id="node17" href="$musl_2string_2memmove_8c_source.html" title=" " alt="" coords="1783,101,1969,141"/>
+<area shape="rect" id="node18" href="$musl_2string_2memset_8c_source.html" title=" " alt="" coords="1993,101,2167,141"/>
+<area shape="rect" id="node19" href="$stpcpy_8c_source.html" title=" " alt="" coords="2191,101,2355,141"/>
+<area shape="rect" id="node20" href="$stpncpy_8c_source.html" title=" " alt="" coords="2380,101,2551,141"/>
+<area shape="rect" id="node21" href="$strchrnul_8c_source.html" title=" " alt="" coords="2575,101,2751,141"/>
+<area shape="rect" id="node22" href="$musl_2string_2strlen_8c_source.html" title=" " alt="" coords="2775,101,2934,141"/>
+<area shape="rect" id="node23" href="$musl_2string_2strstr_8c_source.html" title=" " alt="" coords="2958,101,3114,141"/>
+<area shape="rect" id="node24" href="$newlib_2libc_2machine_2mips_2strncpy_8c_source.html" title=" " alt="" coords="3139,93,3301,148"/>
+<area shape="rect" id="node25" href="$tools_2ps2-irxgen_2src_2types_8h_source.html" title=" " alt="" coords="3326,101,3461,141"/>
+<area shape="rect" id="node29" href="$tools_2ps2adpcm_2src_2adpcm_8c_source.html" title=" " alt="" coords="3485,101,3621,141"/>
+<area shape="rect" id="node30" href="$tools_2ps2adpcm_2src_2main_8c_source.html" title=" " alt="" coords="3645,101,3781,141"/>
+<area shape="rect" id="node5" href="$osal_8c_source.html" title=" " alt="" coords="193,196,335,236"/>
+<area shape="rect" id="node6" href="$tls-helper_8c_source.html" title=" " alt="" coords="359,196,502,236"/>
+<area shape="rect" id="node8" href="$ps2__fio_8c.html" title=" " alt="" coords="537,196,671,236"/>
+<area shape="rect" id="node10" href="$crc16_8c_source.html" title=" " alt="" coords="706,196,854,236"/>
+<area shape="rect" id="node11" href="$mx4sio_8c_source.html" title=" " alt="" coords="878,196,1026,236"/>
+<area shape="rect" id="node26" href="$elftypes_8h_source.html" title=" " alt="" coords="3221,196,3355,236"/>
+<area shape="rect" id="node27" href="$ps2-irxgen_8c_source.html" title=" " alt="" coords="3326,284,3461,324"/>
+<area shape="rect" id="node28" href="$irxtypes_8h_source.html" title=" " alt="" coords="3431,196,3566,236"/>
+</map>

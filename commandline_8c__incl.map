@@ -1,0 +1,23 @@
+<map id="iop/system/iopmgr/src/commandline.c" name="iop/system/iopmgr/src/commandline.c">
+<area shape="rect" id="node1" title=" " alt="" coords="368,5,519,45"/>
+<area shape="rect" id="node2" href="$defs_8h.html" title=" " alt="" coords="323,93,380,119"/>
+<area shape="rect" id="node6" href="$ioman_x_8h.html" title=" " alt="" coords="171,167,247,192"/>
+<area shape="rect" id="node13" href="$stdio_8h.html" title=" " alt="" coords="413,167,473,192"/>
+<area shape="rect" id="node15" href="$sysclib_8h.html" title=" " alt="" coords="742,167,814,192"/>
+<area shape="rect" id="node18" href="$iopmgr_8h.html" title=" " alt="" coords="493,93,564,119"/>
+<area shape="rect" id="node3" href="$iop_2kernel_2include_2types_8h_source.html" title=" " alt="" coords="532,313,595,339"/>
+<area shape="rect" id="node4" title=" " alt="" coords="529,387,597,412"/>
+<area shape="rect" id="node5" href="$tamtypes_8h.html" title=" " alt="" coords="695,387,781,412"/>
+<area shape="rect" id="node7" title=" " alt="" coords="409,240,477,265"/>
+<area shape="rect" id="node8" href="$io__common_8h.html" title=" " alt="" coords="109,240,207,265"/>
+<area shape="rect" id="node11" href="$iox__stat_8h.html" title=" " alt="" coords="7,240,85,265"/>
+<area shape="rect" id="node9" href="$fcntl_8h_source.html" title=" " alt="" coords="115,313,196,339"/>
+<area shape="rect" id="node10" href="$unistd_8h_source.html" title=" " alt="" coords="221,313,311,339"/>
+<area shape="rect" id="node12" href="$time_8h.html" title=" " alt="" coords="5,313,87,339"/>
+<area shape="rect" id="node14" href="$irx_8h.html" title=" " alt="" coords="541,240,586,265"/>
+<area shape="rect" id="node16" href="$setjmp_8h.html" title=" " alt="" coords="740,313,811,339"/>
+<area shape="rect" id="node17" href="$ctype_8h.html" title=" " alt="" coords="712,240,775,265"/>
+<area shape="rect" id="node19" title=" " alt="" coords="497,167,560,192"/>
+<area shape="rect" id="node20" href="$ioman_8h.html" title=" " alt="" coords="322,167,389,192"/>
+<area shape="rect" id="node21" href="$loadcore_8h.html" title=" " alt="" coords="636,167,717,192"/>
+</map>
